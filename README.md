@@ -50,8 +50,8 @@
 ![380365448-9dcf2429-2e05-4513-9f9d-ae7d0c2a519e](https://github.com/user-attachments/assets/6bfca318-7ccd-4db4-9c00-ab0488dd60ee)
 ![380365462-65402442-8421-4247-9906-750b2c51cdc6](https://github.com/user-attachments/assets/803fa153-c285-4fa2-8bde-6f7620c7d99a)
 
-### Name: HAREESH R
-### Register Number: 212223230068
+### Name: KAVINILAVAN DK
+### Register Number: 212223230103
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
